@@ -3,6 +3,22 @@
     "description": "A PHP package to hide or mask sensitive data in logs.",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "log",
+        "sanitizer",
+        "mask",
+        "masking",
+        "privacy",
+        "gdpr",
+        "pci",
+        "security",
+        "json",
+        "xml",
+        "text",
+        "laravel",
+        "symfony",
+        "php"
+    ],
     "autoload": {
         "psr-4": {
             "Ksardv\\PhpLogSanitizer\\": "src/"
